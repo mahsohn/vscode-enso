@@ -8,7 +8,7 @@ This is a vscode extension for [Enso](https://github.com/enso-org/enso) syntax h
 
 - Clone the repo
     `git clone https://github.com/mahsohn/vscode-enso`
-    `cd vscod-enso`
+    `cd vscode-enso`
 - Install vsce
     `npm install -g vsce`
     `vsce package`
@@ -19,4 +19,4 @@ This should create a file enso-lang-x.x.x.vsix
 - Open vscode
 - go to Extensions
 - click `Install from VSIX...` in the menu
-- select the generate vsix file
+- select the generated vsix file
